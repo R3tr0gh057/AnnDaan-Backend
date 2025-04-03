@@ -1,0 +1,5 @@
+flask==3.0.2
+isso==0.13.0
+python-dotenv==1.0.1
+firebase-admin==6.4.0
+twilio==8.12.0 
